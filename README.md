@@ -50,7 +50,7 @@ Un calendrier de l'Avent interactif et personnalisable avec des animations de co
 
 1. **Cloner le repository**
 ```
-git clone https://gitlab.com/Aprilox/advent-calendar-love.git
+git clone https://github.com/Aprilox/advent-calendar-love.git
 cd advent-calendar-love
 ```
 
@@ -238,7 +238,7 @@ npm run build
 npx vercel --prod
 
 # Ou avec l'interface Vercel
-# 1. Connecter le repository GitLab
+# 1. Connecter le repository GitHub
 # 2. Configurer les variables d'environnement si nécessaire
 # 3. Déployer automatiquement
 ```
@@ -292,7 +292,7 @@ npm run lint     # Vérification ESLint
 
 ## 🤝 Contribution
 
-1. **Fork** le projet sur GitLab
+1. **Fork** le projet sur GitHub
 2. **Créer** une branche feature (`git checkout -b feature/AmazingFeature`)
 3. **Commit** les changements (`git commit -m 'Add: AmazingFeature'`)
 4. **Push** vers la branche (`git push origin feature/AmazingFeature`)
@@ -375,7 +375,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👨‍💻 Auteur
 
-**Aprilox** - [GitLab](https://gitlab.com/Aprilox)
+**Aprilox** - [GitHub](https://github.com/Aprilox)
 
 Créé avec ❤️ pour un Noël magique
 
@@ -385,16 +385,16 @@ Créé avec ❤️ pour un Noël magique
 
 Pour toute question ou problème :
 
-1. 📋 Consulter les [Issues GitLab](https://gitlab.com/Aprilox/advent-calendar-love/-/issues)
+1. 📋 Consulter les [Issues GitHub](https://github.com/Aprilox/advent-calendar-love/issues)
 2. 🆕 Créer une nouvelle issue si nécessaire
 3. 📖 Consulter cette documentation
-4. 💬 Contacter [@Aprilox](https://gitlab.com/Aprilox)
+4. 💬 Contacter [@Aprilox](https://github.com/Aprilox)
 
 ---
 
 ## 🔗 Liens Utiles
 
-- **Repository GitLab**: https://gitlab.com/Aprilox/advent-calendar-love
+- **Repository GitHub**: https://github.com/Aprilox/advent-calendar-love
 - **Documentation Next.js**: https://nextjs.org/docs
 - **Documentation Radix UI**: https://www.radix-ui.com/
 - **Documentation Tailwind CSS**: https://tailwindcss.com/docs
